@@ -6,6 +6,7 @@ echo ===========================================================================
 arch=$(getconf LONG_BIT)
 kernel=$(uname)
 echo "Installing depedencies..."
+echo " Subscribe Infinity Trickster now"
 if [ $kernel == "Darwin" ]; then
   echo "MacOS System detected"
 else
